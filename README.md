@@ -1,5 +1,5 @@
-# snowMan
-Let's play snowman game!
+# The Snow Man 
+Let's build a snow man!
 
 ## Screenshot
 
